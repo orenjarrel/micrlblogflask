@@ -1,2 +1,4 @@
+.gitignore
 __pycache__/
 venmicrogit/
+app/__pycache__/
